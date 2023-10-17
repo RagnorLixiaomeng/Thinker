@@ -1,0 +1,2 @@
+# Thinker
+Coder = Datastructure + Algorithm
